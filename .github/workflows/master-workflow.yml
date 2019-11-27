@@ -4,6 +4,7 @@ on:
     # the job will be triggered when there are changes in master
     branches:
       - master
+      - update-greeting
 
 jobs:
   build:
